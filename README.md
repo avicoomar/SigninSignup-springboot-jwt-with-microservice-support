@@ -9,4 +9,5 @@ To add another microservice:
 Rest of the stuff is same as the traditional microservice applications. 
 
 Note: API Gateway runs on port 9090 and signin-signup service works on port 9001.
+
 Warning: Passwords are stored in plain text format. Use a suitable password encoder.
