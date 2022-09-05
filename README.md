@@ -13,8 +13,8 @@ Note: API Gateway runs on port 9090 and signin-signup service works on port 9001
 Warning: Passwords are stored in plain text format. Use a suitable password encoder.
 
 <p align="center">
-<img alt="1" src="https://user-images.githubusercontent.com/61863442/188450386-65f1a665-b467-451c-b4ff-cd6fec9d811c.PNG" style="width: 60%;">
-<img alt="2" src="https://user-images.githubusercontent.com/61863442/188450413-2332fef3-9539-45d5-ba5e-318b9222fa70.PNG" style="width: 60%;">
-<img alt="3" src="https://user-images.githubusercontent.com/61863442/188450430-49895d45-ef32-4743-85fe-12dc54149ec3.PNG" style="width: 60%;">
+<img alt="<MISSING IMAGE>" src="https://user-images.githubusercontent.com/61863442/188450386-65f1a665-b467-451c-b4ff-cd6fec9d811c.PNG" style="width: 60%;">
+<img alt="<MISSING IMAGE>" src="https://user-images.githubusercontent.com/61863442/188450413-2332fef3-9539-45d5-ba5e-318b9222fa70.PNG" style="width: 60%;">
+<img alt="<MISSING IMAGE>" src="https://user-images.githubusercontent.com/61863442/188450430-49895d45-ef32-4743-85fe-12dc54149ec3.PNG" style="width: 60%;">
 </p>
 
