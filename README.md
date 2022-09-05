@@ -6,7 +6,6 @@ It is also free of preflight request cors error.
 To add another microservice:
 1. Specify path in application.yml of apigateway-microservice
 2. Follow the format of sample-microservice format.
-
 Rest of the stuff is same as the traditional microservice applications. 
 
 Note: API Gateway runs on port 9090 and signin-signup service works on port 9001.
