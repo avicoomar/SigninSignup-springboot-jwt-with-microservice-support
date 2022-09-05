@@ -1,4 +1,4 @@
-# SigninSignup-springboot
+# SigninSignup-springboot-jwt-with-microservice-support
 I searched a lot but couldn't find a signin-signup service which uses jwt and supports microservice architecture applications since spring-cloud and spring-boot-starter-web don't work together (because spring-cloud uses webflux).
 So I made a user-service application that works in isolation(on port 9001). It can interact and validate other microservice's API calls. 
 It is also free of preflight request cors error.
