@@ -1,0 +1,18 @@
+server:
+  port: 9090
+
+eureka:
+  instance:
+    hostname: localhost
+
+
+spring:
+  application:
+    name: api-gateway
+  cloud:
+    gateway:
+      routes:
+        - id: sample-service
+          uri: lb://sample-service
+          predicates:
+            - Path=/sample/**
